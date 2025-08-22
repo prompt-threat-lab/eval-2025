@@ -3,7 +3,7 @@
 This repository contains supplementary materials for the paper:
 
 **"Robustness of Modern LLMs Against Jailbreaking:  
-Defensive Strategies for Cybersecurity-Relevant Use Cases"**  
+Cybersecurity-Relevant Use Cases"**  
 
 ## 📁 Contents
 
